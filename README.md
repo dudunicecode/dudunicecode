@@ -1,12 +1,15 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="URL_DO_PACMAN" />
+  <br>
+  <img src="URL_DAS_STATS" />
 </div>
 
+### 📊 Estatísticas
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=dudunicecode&show_icons=true&theme=radical&include_all_commits=true)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dudunicecode&layout=compact&theme=radical)
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
@@ -41,7 +44,7 @@
 </div>
 
 ###
-
+![Contador de visitas](https://komarev.com/ghpvc/?username=dudunicecode&style=flat-square&color=blue)
 
 ###
 <p align="center">
