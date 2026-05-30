@@ -48,5 +48,5 @@
 
 ###
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/pacman-output/github-contribution-grid-snake.svg" alt="pacman-animation" />
+  <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/pacman-output/pacman-contribution-graph.svg" alt="pacman-animation" />
 </p>
