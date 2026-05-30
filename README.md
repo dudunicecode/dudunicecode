@@ -32,7 +32,6 @@ I'm **Eduardo**, a **Dev Junior** based in **Bagé/Brazil**.
 <div align="center">
   <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/stats-output/stats.svg" height="150" alt="stats graph"  />
   
-  <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
