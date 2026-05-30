@@ -1,18 +1,16 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
-<div align="center">
-  <img src="URL_DO_PACMAN" />
-  <br>
-  <img src="URL_DAS_STATS" />
-</div>
+# Hi there! 👋
 
-### 📊 Minhas Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dudunicecode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Umpierre" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudunicecode&layout=compact&theme=dracula" alt="Linguagens do Umpierre" />
-</p>
+I'm **[Your Name]**, a **[Your Role/Title, e.g., Full Stack Developer]** based in **[Your City/Country]**.
 
+### About Me
+* 🔭 I’m currently working on: **[Project Name or Technology]**
+* 🌱 I’m currently learning: **[New Tech/Skill]**
+* 👯 I’m looking to collaborate on: **[Type of Projects]**
+* 💬 Ask me about: **[Your Interests or Tech Stack]**
+* ⚡ Fun fact: **[Something interesting about you!]**
 ###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
