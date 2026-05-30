@@ -7,11 +7,13 @@
   <img src="URL_DAS_STATS" />
 </div>
 
-### 📊 Estatísticas
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=dudunicecode&show_icons=true&theme=radical&include_all_commits=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dudunicecode&layout=compact&theme=radical)
-###
+### 📊 Minhas Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dudunicecode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Umpierre" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudunicecode&layout=compact&theme=dracula" alt="Linguagens do Umpierre" />
+</p>
 
+###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
