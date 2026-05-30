@@ -9,13 +9,6 @@ I'm **Eduardo**, a **Dev Junior** based in **Bagé/Brazil**.
 * 💬 Ask me about: *FULL STACK*
 * ⚡ Fun fact: *FUTURE ENGINEER*
 ###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###   
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp1NmJibHJhdjRyMmFhbjlkMGpmeTZieXZ4ejJqajEyeWRtbnZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"  />
 
 ###
@@ -45,6 +38,9 @@ I'm **Eduardo**, a **Dev Junior** based in **Bagé/Brazil**.
 </a>
   <a href="mailto:eduardomunhozumpierres2@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+  <a href="https://wa.me/555399741818?text=Vi%20seu%20perfil%20no%20GitHub" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="whatsapp logo" />
 </a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
