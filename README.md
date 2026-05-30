@@ -9,10 +9,6 @@ I'm **[Your Name]**, a **[Your Role/Title, e.g., Full Stack Developer]** based i
 * 💬 Ask me about: **[Your Interests or Tech Stack]**
 * ⚡ Fun fact: **[Something interesting about you!]**
 ###
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp1NmJibHJhdjRyMmFhbjlkMGpmeTZieXZ4ejJqajEyeWRtbnZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="400" />
-</div>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -43,8 +39,12 @@ I'm **[Your Name]**, a **[Your Role/Title, e.g., Full Stack Developer]** based i
 
 ###
 ![Contador de visitas](https://komarev.com/ghpvc/?username=dudunicecode&style=flat-square&color=blue)
-
+###
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp1NmJibHJhdjRyMmFhbjlkMGpmeTZieXZ4ejJqajEyeWRtbnZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="400" />
+</div>
 ###
 <p align="center">
   <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/pacman-output/pacman-contribution-graph.svg" alt="pacman-animation" />
 </p>
+###
