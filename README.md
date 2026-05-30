@@ -9,11 +9,6 @@ I'm **[Your Name]**, a **[Your Role/Title, e.g., Full Stack Developer]** based i
 * 💬 Ask me about: *[Your Interests or Tech Stack]*
 * ⚡ Fun fact: *[Something interesting about you!]*
 ###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-###
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp1NmJibHJhdjRyMmFhbjlkMGpmeTZieXZ4ejJqajEyeWRtbnZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"  />
 
 ###
@@ -34,6 +29,10 @@ I'm **[Your Name]**, a **[Your Role/Title, e.g., Full Stack Developer]** based i
 </div>
 
 ###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
