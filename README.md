@@ -33,9 +33,9 @@ I'm **[Your Name]**, a **[Your Role/Title, e.g., Full Stack Developer]** based i
   <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
-### 📊 Linguagens mais utilizadas
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudunicecode&layout=compact&theme=radical" />
+
 ###
+</div>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
