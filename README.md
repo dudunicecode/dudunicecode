@@ -2,26 +2,18 @@
 
 I'm **[Your Name]**, a **[Your Role/Title, e.g., Full Stack Developer]** based in **[Your City/Country]**.
 
-### 
-  <tr>
-    <td valign="top" width="50%">
-      <h3>About Me</h3>
-      <ul>
-        <li>🔭 I’m currently working on: <b>[Seu Projeto]</b></li>
-        <li>🌱 I’m currently learning: <b>[Sua Tech]</b></li>
-        <li>👯 I’m looking to collaborate on: <b>[Tipo de Projeto]</b></li>
-        <li>💬 Ask me about: <b>[Seus Interesses]</b></li>
-        <li>⚡ Fun fact: <b>[Curiosidade]</b></li>
-      </ul>
-    </td>
-    <td valign="middle" align="center" width="50%">
-      <img src=" (https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp1NmJibHJhdjRyMmFhbjlkMGpmeTZieXZ4ejJqajEyeWRtbnZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif)" width="300" />
-    </td>
-  </tr>
-
+###### About Me
+* 🔭 I’m currently working on: *[Project Name or Technology]*
+* 🌱 I’m currently learning: *[New Tech/Skill]*
+* 👯 I’m looking to collaborate on: *[Type of Projects]*
+* 💬 Ask me about: *[Your Interests or Tech Stack]*
+* ⚡ Fun fact: *[Something interesting about you!]*
+###
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJlbmUzd3dkaWVsaXdwNHVmN2N4a2huOTIyczB6a2F5MzE4ZDB3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGhhYvQdd3bs8djAFr/giphy.gif" width="400" />
+</div>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
