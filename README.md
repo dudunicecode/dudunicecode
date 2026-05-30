@@ -1,6 +1,3 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
 # Hi there! 👋
 
 I'm **[Your Name]**, a **[Your Role/Title, e.g., Full Stack Developer]** based in **[Your City/Country]**.
