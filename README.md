@@ -41,6 +41,9 @@ I'm **[Your Name]**, a **[Your Role/Title, e.g., Full Stack Developer]** based i
 
 ###
 ![Contador de visitas](https://komarev.com/ghpvc/?username=dudunicecode&style=flat-square&color=blue)
+
+### Progresso do Projeto X
+![Progress](https://progress-bar.dev/75/?title=Concluído)
 ###
 <p align="center">
   <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/pacman-output/pacman-contribution-graph.svg" alt="pacman-animation" />
