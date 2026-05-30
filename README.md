@@ -9,17 +9,11 @@ I'm **Eduardo**, a **Dev Junior** based in **Bagé/Brazil**.
 * 💬 Ask me about: *FULL STACK*
 * ⚡ Fun fact: *FUTURE ENGINEER*
   
-###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/stats-output/stats.svg" height="150" alt="stats graph"  />
-  
- <h3 align="center">Minhas Estatísticas</h3>
+### Minhas Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dudunicecode&show_icons=true&theme=radical" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudunicecode&layout=compact&theme=radical" alt="Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dudunicecode&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do dudunicecode" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudunicecode&layout=compact&theme=radical&hide_border=true" alt="Linguagens do dudunicecode" />
 </p>
-</div>
-
 ###   
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp1NmJibHJhdjRyMmFhbjlkMGpmeTZieXZ4ejJqajEyeWRtbnZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"  />
 
