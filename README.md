@@ -2,7 +2,7 @@
 
 I'm **[Your Name]**, a **[Your Role/Title, e.g., Full Stack Developer]** based in **[Your City/Country]**.
 
-### <table>
+### 
   <tr>
     <td valign="top" width="50%">
       <h3>About Me</h3>
@@ -18,7 +18,7 @@ I'm **[Your Name]**, a **[Your Role/Title, e.g., Full Stack Developer]** based i
       <img src=" (https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp1NmJibHJhdjRyMmFhbjlkMGpmeTZieXZ4ejJqajEyeWRtbnZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif)" width="300" />
     </td>
   </tr>
-</table>
+
 
 ###
 
