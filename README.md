@@ -1,13 +1,13 @@
 # Hi there! 👋
 
-I'm **[Your Name]**, a **[Your Role/Title, e.g., Full Stack Developer]** based in **[Your City/Country]**.
+I'm **Eduardo**, a **Dev Junior** based in **Bagé/Brazil**.
 
 ### About Me
-* 🔭 I’m currently working on: *[Project Name or Technology]*
-* 🌱 I’m currently learning: *[New Tech/Skill]*
-* 👯 I’m looking to collaborate on: *[Type of Projects]*
-* 💬 Ask me about: *[Your Interests or Tech Stack]*
-* ⚡ Fun fact: *[Something interesting about you!]*
+* 🔭 I’m currently working on: *BAGE Systems*
+* 🌱 I’m currently learning: *TS/BACKEND-HTML/FRONTEND-PYTHON/CHATBOT*
+* 👯 I’m looking to collaborate on: *BACKEND-INTEGRATION FOR APIs*
+* 💬 Ask me about: *FULL STACK*
+* ⚡ Fun fact: *FUTURE ENGINEER*
 ###
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp1NmJibHJhdjRyMmFhbjlkMGpmeTZieXZ4ejJqajEyeWRtbnZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"  />
 
