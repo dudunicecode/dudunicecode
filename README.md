@@ -9,9 +9,7 @@ I'm **[Your Name]**, a **[Your Role/Title, e.g., Full Stack Developer]** based i
 * 💬 Ask me about: *[Your Interests or Tech Stack]*
 * ⚡ Fun fact: *[Something interesting about you!]*
 ###
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJlbmUzd3dkaWVsaXdwNHVmN2N4a2huOTIyczB6a2F5MzE4ZDB3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGhhYvQdd3bs8djAFr/giphy.gif" width="400" />
-</div>
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJlbmUzd3dkaWVsaXdwNHVmN2N4a2huOTIyczB6a2F5MzE4ZDB3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGhhYvQdd3bs8djAFr/giphy.gif)"  />
 
 ###
 <div align="left">
