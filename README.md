@@ -12,7 +12,12 @@ I'm **Eduardo**, a **Dev Junior** based in **Bagé/Brazil**.
 ###
 <div align="center">
   <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudunicecode&layout=compact&theme=radical" alt="dudunicecode's languages" />
+  
+ <h3 align="center">Minhas Estatísticas</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dudunicecode&show_icons=true&theme=radical" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudunicecode&layout=compact&theme=radical" alt="Linguagens" />
+</p>
 </div>
 
 ###   
