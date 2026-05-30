@@ -8,6 +8,12 @@ I'm **Eduardo**, a **Dev Junior** based in **Bagé/Brazil**.
 * 👯 I’m looking to collaborate on: *BACKEND-INTEGRATION FOR APIs*
 * 💬 Ask me about: *FULL STACK*
 * ⚡ Fun fact: *FUTURE ENGINEER*
+  
+###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/stats-output/stats.svg" height="150" alt="stats graph"  />
+  
+</div>
 ###
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp1NmJibHJhdjRyMmFhbjlkMGpmeTZieXZ4ejJqajEyeWRtbnZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"  />
 
@@ -26,12 +32,6 @@ I'm **Eduardo**, a **Dev Junior** based in **Bagé/Brazil**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/stats-output/stats.svg" height="150" alt="stats graph"  />
-  
 </div>
 
 ###
