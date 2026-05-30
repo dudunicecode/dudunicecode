@@ -47,3 +47,6 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dudunicecode/dudunicecode/pacman-output/github-contribution-grid-snake.svg" alt="pacman-animation" />
+</p>
